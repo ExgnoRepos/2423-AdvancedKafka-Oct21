@@ -134,6 +134,6 @@ Run `SimpleProducer`.  This will publish messages into `test` topic.
 
 ## Step-6: KSQL and More
 
-We will be following [this tutorial](               ), Step 2 onwards
+We will be following [this tutorial](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html#quickstart), Step 2 onwards
 
 **Execute each step carefully;  do not skip any steps!**
